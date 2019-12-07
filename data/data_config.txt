@@ -1,1 +1,0 @@
-data_improved/train_drop_variable_renamed.csv -- features with variability >95% are dropped. Features with >20 unique values are supposed to be numerical, others - categorical. Categorical with 'cat' suffix and numerical - 'num'. See notebooks/eda.ipynb
